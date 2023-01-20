@@ -9,6 +9,8 @@ Original Gists can be found here:
 [QuickStringReplacer](https://gist.github.com/OptoCloud/23a0acb9cd6c692c07dbdf5ea9651baa)
 [QuickReplace (Fork)](https://gist.github.com/just-ero/82e6737d726a64149fe2ba024cdd0bf7)
 
+Email template example is from [Lee Munroe's Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
+
 ## Usage
 
 ```csharp
